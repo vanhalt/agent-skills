@@ -1,5 +1,5 @@
 ---
-name: orchestrator
+name: rails orchestrator
 description: >
   Analyze a project description and generate a structured implementation plan plus subtask files in docs/
   so multiple coding agents can work in parallel or sequence with clear dependencies, deliverables, and acceptance criteria.
